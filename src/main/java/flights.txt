@@ -1,0 +1,9 @@
+Air India,Bangalore,Chennai,2020-09-13,Economy,1,45,10,2000
+Spice Jet,Bangalore,Chennai,2020-09-12,Economy,1,45,10,4000
+Air India,Banglore,Delhi,2020-10-13,Economy,3,120,12,2500
+Lufthansa,Chennai,Frankfurt,2020-12-15,FirstClass,1,480,16,300000
+Spice Jet,Chennai,Mumbai,2020-10-28,Economy,3,60,20,1200
+Air Asia,Banglore,Berlin,2020-11-16,Economy,4,120,22,1499
+IndiGo,Mumbai,Vizag,2020-12-16,Business,1,45,24,7000
+Air Line,London,Trivandrum,2020-11-26,Economy,2,500,25,20000
+Air Asia,Bangalore,Chennai,2020-12-18,Economy,1,45,10,2000
